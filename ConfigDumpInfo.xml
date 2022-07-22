@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.Затр_Затраты" id="916d65ed-2aab-4034-8726-f93e10e4b5a4" configVersion="77a5dd48a92a959cbc72bd3ba7ea43cbd698d0cf"/>
+		<Metadata name="Catalog.Контрагенты" id="0a8613ab-0c57-4080-8d41-d270719f9c38" configVersion="c36192e24513a814f0a5f29d931c3ed8bd48a8ea"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="b213621f-292c-46d2-a508-88e31cb21281" configVersion="4d49331f04b3c5cc110a5ed55ee3144304b82aed"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="b213621f-292c-46d2-a508-88e31cb21281.0" configVersion="b08bb82e443c1056fc040a2df555465efa763ec7"/>
+		<Metadata name="CommonModule.Затр_УправлениеСвойствамиВызовСервера" id="a2e134af-a8d7-49d8-8296-e494d928a75f" configVersion="dc9cbf7106b39d393cee4d34e29760a3a24fe602"/>
+		<Metadata name="CommonModule.Затр_УправлениеСвойствамиВызовСервера.Module" id="a2e134af-a8d7-49d8-8296-e494d928a75f.0" configVersion="47c1fd90643e06e86cce8f641b92125189b85b1e"/>
+		<Metadata name="CommonModule.УправлениеСвойствами" id="5cd20a93-1e6f-4314-ab6d-e0f9a12387e7" configVersion="7bf64127de4e7b85f8751d19f1fc8cbafcdf085b"/>
+		<Metadata name="CommonModule.УправлениеСвойствами.Module" id="5cd20a93-1e6f-4314-ab6d-e0f9a12387e7.0" configVersion="72dc60f4a02a6c0bce2f5e5462e58d972d0470bd"/>
+		<Metadata name="Configuration.Затраты" id="890f9b94-7664-44f4-9238-9eed037a93dd" configVersion="00e5e928ab3686f1cade2816c337d3b621e4a750"/>
+		<Metadata name="Language.Русский" id="e7bc75d5-b8b6-46f7-a3a0-dac6ffd98635" configVersion="5465da1ea0fcb2ab8b867c74c51539de3d9bb20a"/>
+		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="fc903f49-f5fd-47c0-8e48-2e42bbacf1ae" configVersion="ed810a34041bbfb0eb9c9e9f6c64545a5dca4c18"/>
+		<Metadata name="StyleItem.ГруппаВариантовОтчетовВажнаяШрифт" id="ff73af9c-cdb3-4850-88ba-cee11a34c414" configVersion="d38d30c00ca1b417a905d8f1a558e45ca991707f"/>
+		<Metadata name="StyleItem.НадписьПоясняющаяГиперссылку" id="059d2ff0-acb8-42c3-8c72-2408e7cc9ee3" configVersion="60e0590cdd6e0699ed80a7197c10fb6fb5d167f5"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="158c8e83-2f55-4a9e-8c10-d3849dc5e504" configVersion="f09f1726038fe15853f84d0c307ca6210c52025d"/>
+		<Metadata name="StyleItem.ЦветВыделенияКонтрагентаСОшибкой" id="0a8d5a7e-2d2b-4c9c-9ca8-5fd1c973369b" configVersion="4165ee3497dbba8135071966f9f3c31b543992ce"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
