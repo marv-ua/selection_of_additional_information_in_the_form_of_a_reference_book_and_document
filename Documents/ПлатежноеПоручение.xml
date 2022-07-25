@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
+	<Document uuid="fcf2327e-b20f-4abe-86f8-b1ff34bb689a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПлатежноеПоручение" category="Object">
+				<xr:TypeId>ca227887-d9c6-481a-80b4-dd6ec07ccd08</xr:TypeId>
+				<xr:ValueId>6ffe2593-e62a-4960-8410-031a087168c0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПлатежноеПоручение" category="Ref">
+				<xr:TypeId>7fb26b1e-09b2-4e9f-aea0-6af27f04a50f</xr:TypeId>
+				<xr:ValueId>1ec890f9-42e9-4ed3-ab9f-3c582a232018</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПлатежноеПоручение" category="Selection">
+				<xr:TypeId>0cd2c8d0-12bb-4d8a-9d0f-72d5f650836d</xr:TypeId>
+				<xr:ValueId>50ad6db3-59f3-464e-a364-271dec93fc0b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПлатежноеПоручение" category="List">
+				<xr:TypeId>03989cb4-3913-41fe-a033-417dc034cc13</xr:TypeId>
+				<xr:ValueId>f37bbed8-0849-400c-a214-666bd94ebee7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПлатежноеПоручение" category="Manager">
+				<xr:TypeId>938cf303-0af2-40f2-86b7-f300b63d9bcd</xr:TypeId>
+				<xr:ValueId>4cf98b60-ea08-43f2-89e3-2ecd6fb127e1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПлатежноеПоручение</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>1cc042b5-ff65-4629-ae4b-c0bb288ab991</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

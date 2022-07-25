@@ -1,20 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
 	<ConfigVersions>
-		<Metadata name="Catalog.Затр_Затраты" id="916d65ed-2aab-4034-8726-f93e10e4b5a4" configVersion="77a5dd48a92a959cbc72bd3ba7ea43cbd698d0cf"/>
 		<Metadata name="Catalog.Контрагенты" id="0a8613ab-0c57-4080-8d41-d270719f9c38" configVersion="c36192e24513a814f0a5f29d931c3ed8bd48a8ea"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="b213621f-292c-46d2-a508-88e31cb21281" configVersion="4d49331f04b3c5cc110a5ed55ee3144304b82aed"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="b213621f-292c-46d2-a508-88e31cb21281.0" configVersion="b08bb82e443c1056fc040a2df555465efa763ec7"/>
 		<Metadata name="CommonModule.Затр_УправлениеСвойствамиВызовСервера" id="a2e134af-a8d7-49d8-8296-e494d928a75f" configVersion="dc9cbf7106b39d393cee4d34e29760a3a24fe602"/>
-		<Metadata name="CommonModule.Затр_УправлениеСвойствамиВызовСервера.Module" id="a2e134af-a8d7-49d8-8296-e494d928a75f.0" configVersion="47c1fd90643e06e86cce8f641b92125189b85b1e"/>
+		<Metadata name="CommonModule.Затр_УправлениеСвойствамиВызовСервера.Module" id="a2e134af-a8d7-49d8-8296-e494d928a75f.0" configVersion="2546c238451088ce4aacbf9b53766c8c708c280d"/>
 		<Metadata name="CommonModule.УправлениеСвойствами" id="5cd20a93-1e6f-4314-ab6d-e0f9a12387e7" configVersion="7bf64127de4e7b85f8751d19f1fc8cbafcdf085b"/>
-		<Metadata name="CommonModule.УправлениеСвойствами.Module" id="5cd20a93-1e6f-4314-ab6d-e0f9a12387e7.0" configVersion="72dc60f4a02a6c0bce2f5e5462e58d972d0470bd"/>
-		<Metadata name="Configuration.Затраты" id="890f9b94-7664-44f4-9238-9eed037a93dd" configVersion="00e5e928ab3686f1cade2816c337d3b621e4a750"/>
+		<Metadata name="CommonModule.УправлениеСвойствами.Module" id="5cd20a93-1e6f-4314-ab6d-e0f9a12387e7.0" configVersion="e2efa2ac5449e5d733d7076de502c78e0cab489b"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="ab54d34c-62cf-4568-bb2f-75a96c100f17" configVersion="cc6a000433abd513e352cafa787a7a38a9cb9fea"/>
+		<Metadata name="CommonPicture.Отчеты" id="25324a6d-6bcd-4af7-b7d3-0a956700afb8" configVersion="a87cc7f9e532effe969cbfaf01506ba8b80daefb"/>
+		<Metadata name="CommonPicture.СостоянияДокумента" id="4ca640cb-ded0-40e6-8094-a50b5c227966" configVersion="f9348083f2cac69a1095c996c517c07ad5262034"/>
+		<Metadata name="Configuration.Затраты" id="890f9b94-7664-44f4-9238-9eed037a93dd" configVersion="ee4469992a238017fa3fa394d4467e592c3875ac"/>
+		<Metadata name="Document.ПлатежноеПоручение" id="fcf2327e-b20f-4abe-86f8-b1ff34bb689a" configVersion="88a53481be4fd4d26274e4f4294882ea92b9c000"/>
+		<Metadata name="Document.ПлатежноеПоручение.Form.ФормаДокумента" id="c9f40b0c-0f2b-4a06-a7ba-9175eab2d5cc" configVersion="7fc62aac327e85c54229f88524f03e6ef755f7e0"/>
+		<Metadata name="Document.ПлатежноеПоручение.Form.ФормаДокумента.Form" id="c9f40b0c-0f2b-4a06-a7ba-9175eab2d5cc.0" configVersion="c2981a12c78e208e866dd1cbe14441dd1e70672b"/>
+		<Metadata name="Enum.СостоянияБанковскихДокументов" id="c93c745b-9c7d-44b3-bf71-1ca002f240ea" configVersion="d6ac5362b2e7db1a6ef650ba09c5a519ac5df308">
+			<Metadata name="Enum.СостоянияБанковскихДокументов.EnumValue.Отправлено" id="2b9f0811-c53f-4126-a9e8-026c8b1324aa"/>
+			<Metadata name="Enum.СостоянияБанковскихДокументов.EnumValue.Отклонено" id="34968493-18a8-4d29-b753-0b639385e351"/>
+			<Metadata name="Enum.СостоянияБанковскихДокументов.EnumValue.НаПодписи" id="89d21a12-807a-45de-aed3-01db4bc2bd3f"/>
+			<Metadata name="Enum.СостоянияБанковскихДокументов.EnumValue.Оплачено" id="a1a77ea6-f2d8-41b6-916e-6b3d583613c1"/>
+			<Metadata name="Enum.СостоянияБанковскихДокументов.EnumValue.Подготовлено" id="d9f70d23-8e1e-401d-8d55-22b7c024b392"/>
+		</Metadata>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо" id="a12f4d97-2d99-4415-b63f-4760d2a5906a" configVersion="6900b3406fbde1b1b51c599e95b6ac33f9d4cc18">
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ЮридическоеЛицо" id="993353f2-72e8-4255-af77-8822d4db7f74"/>
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ФизическоеЛицо" id="e6b26df8-8ca1-4bed-9f6c-7fab64d3452a"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="e7bc75d5-b8b6-46f7-a3a0-dac6ffd98635" configVersion="5465da1ea0fcb2ab8b867c74c51539de3d9bb20a"/>
 		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="fc903f49-f5fd-47c0-8e48-2e42bbacf1ae" configVersion="ed810a34041bbfb0eb9c9e9f6c64545a5dca4c18"/>
 		<Metadata name="StyleItem.ГруппаВариантовОтчетовВажнаяШрифт" id="ff73af9c-cdb3-4850-88ba-cee11a34c414" configVersion="d38d30c00ca1b417a905d8f1a558e45ca991707f"/>
+		<Metadata name="StyleItem.ДосьеВторостепеннаяНадписьЦвет" id="de8b0da6-573c-493b-a4a6-2c0dc592f264" configVersion="28be44c50b55963f79ff51371cecdebae19b3d36"/>
 		<Metadata name="StyleItem.НадписьПоясняющаяГиперссылку" id="059d2ff0-acb8-42c3-8c72-2408e7cc9ee3" configVersion="60e0590cdd6e0699ed80a7197c10fb6fb5d167f5"/>
 		<Metadata name="StyleItem.ПоясняющийТекст" id="158c8e83-2f55-4a9e-8c10-d3849dc5e504" configVersion="f09f1726038fe15853f84d0c307ca6210c52025d"/>
+		<Metadata name="StyleItem.ЦветБаннераБежевый" id="7471dbf5-2d63-4e67-84e5-4fdb272279e4" configVersion="b89d29f3f65ed9d106e2f8c0e2f0299ff7caba02"/>
 		<Metadata name="StyleItem.ЦветВыделенияКонтрагентаСОшибкой" id="0a8d5a7e-2d2b-4c9c-9ca8-5fd1c973369b" configVersion="4165ee3497dbba8135071966f9f3c31b543992ce"/>
+		<Metadata name="StyleItem.ЦветФонаНекорректногоЗначенияБИП" id="38c28357-18f9-4a3f-bae5-e213842cee6c" configVersion="ad9d688ee3f685a5f80f1aeac370f05f0a0c2112"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

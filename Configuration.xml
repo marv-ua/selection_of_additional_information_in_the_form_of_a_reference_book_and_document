@@ -66,10 +66,18 @@
 			<StyleItem>ПоясняющийТекст</StyleItem>
 			<StyleItem>ЦветВыделенияКонтрагентаСОшибкой</StyleItem>
 			<StyleItem>НадписьПоясняющаяГиперссылку</StyleItem>
+			<StyleItem>ЦветФонаНекорректногоЗначенияБИП</StyleItem>
+			<StyleItem>ЦветБаннераБежевый</StyleItem>
+			<StyleItem>ДосьеВторостепеннаяНадписьЦвет</StyleItem>
+			<CommonPicture>СостоянияДокумента</CommonPicture>
+			<CommonPicture>ЗаполнитьФорму</CommonPicture>
+			<CommonPicture>Отчеты</CommonPicture>
 			<CommonModule>УправлениеСвойствами</CommonModule>
 			<CommonModule>Затр_УправлениеСвойствамиВызовСервера</CommonModule>
-			<Catalog>Затр_Затраты</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>ПлатежноеПоручение</Document>
+			<Enum>ЮридическоеФизическоеЛицо</Enum>
+			<Enum>СостоянияБанковскихДокументов</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
